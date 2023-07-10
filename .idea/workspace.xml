@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e466a6d0-483f-469a-a902-48c30ff67896" name="Changes" comment="Created all animals classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AllAnimals/MyFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/View.java" afterDir="false" />
+    <list default="true" id="e466a6d0-483f-469a-a902-48c30ff67896" name="Changes" comment="add Counter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,11 +66,27 @@
       <option name="project" value="LOCAL" />
       <updated>1688976204700</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add view and all functions">
+      <created>1688976828940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688976828941</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Counter">
+      <created>1688976918746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688976918747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created all animals classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created all animals classes" />
+    <MESSAGE value="add view and all functions" />
+    <MESSAGE value="add Counter" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Counter" />
   </component>
 </project>
